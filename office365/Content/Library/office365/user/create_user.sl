@@ -9,8 +9,8 @@ flow:
   name: create_user
   inputs:
     - display_name: Test
-    - mail_nick_name: test
-    - user_principal_name: test@rpamf.onmicrosoft.com
+    - mail_nick_name: Test
+    - user_principal_name: Test@z1jfl.onmicrosoft.com
     - password:
         sensitive: true
     - force_change_password: 'false'
