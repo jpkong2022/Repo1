@@ -5,10 +5,10 @@
 ########################################################################################################################
 namespace: ''
 properties:
-  - tenant: rpamf.onmicrosoft.com
-  - client_id: ''
+  - tenant: z1jfl.onmicrosoft.com
+  - client_id: 'fdba704b-86b6-4b64-b679-3f6f951216b0'
   - client_secret:
-      value: ''
+      value: 'nNm7Q~jZW-3rvEX1FqNfn1DboDIItsgxalAAI'
       sensitive: true
   - mailbox_folder:
       value: ''
