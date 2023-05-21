@@ -18,9 +18,7 @@ skip_cert_verification = "true"
   }
 }
 
-variable "ami1" {
-	default = "akjk" 
-}
+
 provider "aws" {
 	region = var.region
 	access_key = var.access_key
