@@ -1,5 +1,5 @@
 variable "ami" {
-  default = "ami-0c9978668f8d55984
+  default = "ami-0c9978668f8d55984"
   }
   
 resource "aws_instance" "default" {
